@@ -1,7 +1,7 @@
 ## RGB image to RGB565 C matrix conversion
 I used this script to quickly convert small RGB images to C RGB565 matrices for some projects with microcontrollers.\
 It is not meant to be a complete conversion, but it is enough for my purposes.\
-It read every pixel of the image and prints the 16 bit RGB565 value on the standard output. I sujest to redirect the output to a file.
+It read every pixel of the image and prints the 16 bit RGB565 value on the standard output. I suggest to redirect the output to a file.
 
 ### Usage
 ```
